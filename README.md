@@ -62,6 +62,6 @@ MIT License — see the `LICENSE` file for details.
 
 ---
 
-> _This project grew out of my journey learning Python and Git. My goal: to build something genuinely useful while practicing and sharing what I learn. All feedback is warmly welcomed! If you have suggestions, spot a bug, or want to propose improvements, please [open an issue](https://github.com/AsperaAdAstral/pokemon-password-generator/issues) or contribute. Let’s learn and build together!_
+> _This project grew out of my journey learning Python and Git. My goal: to build something genuinely useful while practicing and sharing what I learn. All feedback is warmly welcomed! If you have suggestions, spot a bug, or want to propose improvements, please [open an issue](https://github.com/AsperaAdAstra1/pokemon-password-generator/issues) or contribute. Let’s learn and build together!_
 
 ---
